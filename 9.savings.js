@@ -20,6 +20,7 @@ const monthlySavings = (earnings, cost) => {
 
 const payments = 4;
 // const payments = [1000, 2000, 2500];
+// const payments = [1000, 2000, 2500];
 const livingCost = 50000;
 const result = monthlySavings(payments, livingCost);
 console.log(result);
